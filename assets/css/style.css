@@ -1,0 +1,11 @@
+.option.wrong {
+    background-color: rgba(255, 0, 0, 0.5);
+    border: 1px solid rgba(255, 0, 0, 1.0);
+    color: rgba(255, 0, 0, 1.0);
+}
+
+.option.correct {
+    background-color: rgba(0, 255, 0, 0.5);
+    border: 1px solid rgba(0, 255, 0, 1.0);
+    color: rgba(0, 255, 0, 1.0);
+}
